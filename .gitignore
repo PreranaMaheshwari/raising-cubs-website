@@ -25,15 +25,3 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-
-# Ignore Python cache
-__pycache__/
-*.pyc
-
-# Ignore system files
-.DS_Store
-Thumbs.db
-
-# Ignore IDE settings
-.vscode/
-.idea/
