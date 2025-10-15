@@ -3,8 +3,19 @@
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
-import { Heart, Users, Award, Shield, BookOpen, Sparkles, Target, TreePine, GraduationCap, Clock } from "lucide-react"
 import Link from "next/link"
+import { 
+  Heart, 
+  Users, 
+  Award, 
+  Shield, 
+  BookOpen, 
+  Sparkles, 
+  Target, 
+  TreePine, 
+  GraduationCap, 
+  Clock 
+} from "lucide-react"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 
